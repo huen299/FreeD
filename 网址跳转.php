@@ -2,7 +2,7 @@
  
 //重定向浏览器 
  
-header("Location: 	https://神器每日推送.tk/pz.json"); 
+header("Location: 	https://www.lystv.com/2024/303/311vip.json"); 
  
 //跳转至网址 
  
